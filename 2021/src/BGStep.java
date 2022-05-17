@@ -20,6 +20,8 @@ public class BGStep {
                 step2 += i - (bi++);
             }
         }
+
+
         return Math.min(step1,step2);
     }
 }
