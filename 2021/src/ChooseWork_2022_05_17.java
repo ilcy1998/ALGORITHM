@@ -1,4 +1,4 @@
-public class ChooseWork {
+public class ChooseWork_2022_05_17 {
     public static int maxmoney(int[][] income,int index,int rest)
     {
         if(income == null || income.length < 2 || (income.length & 1) != 0)
