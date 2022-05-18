@@ -1,4 +1,4 @@
-public class BGStep {
+public class BGStep_2022_05_17 {
     public static int minStep(String s)
     {
         if(s == null || s.equals(""))
